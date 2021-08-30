@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihirvatsa
-- 👀 I’m interested in coding.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Ml and Dl.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mihirvatsa6@gmail.com.
